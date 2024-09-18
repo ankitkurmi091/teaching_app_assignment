@@ -1,16 +1,65 @@
-# teaching_ui_assignment
+# Flutter Course App UI
 
-A new Flutter project.
+This Flutter application showcases a well-designed course management system interface with three main pages. The UI is designed with a focus on simplicity and usability, providing users with an easy-to-navigate platform to explore, enroll, and manage courses.
 
-## Getting Started
+## Screenshots
+<!-- Replace with the actual image path once uploaded -->
 
-This project is a starting point for a Flutter application.
+## Pages Overview
 
-A few resources to get you started if this is your first Flutter project:
+### 1. Details Page
+**Purpose:** This page provides detailed information about a selected course.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Features:**
+- Displays course name, description, and other students enrolled.
+- Shows course progress with video lesson names and durations.
+- Allows users to play video lessons once they are unlocked.
+- "Enroll Now" button is provided for users who are not yet enrolled in the course.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Dashboard Page
+**Purpose:** This page serves as the user's main dashboard.
+
+**Features:**
+- Displays user information, such as name and course progress.
+- Lists popular courses with course names, participants, and ratings.
+- Quick access to favorite or most recent courses.
+- Users can view detailed course data such as completion status, total hours spent, and available lessons.
+
+### 3. Payment Success Page
+**Purpose:** Confirms successful payment for a course.
+
+**Features:**
+- Displays payment amount, invoice date, and course purchased.
+- Shows a unique transaction ID for reference.
+- "Done" button takes users back to the main screen or home page.
+
+## How to Run the Project
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/flutter-course-app.git
+    ```
+
+2. Install the necessary dependencies:
+
+    ```bash
+    flutter pub get
+    ```
+
+3. Run the app:
+
+    ```bash
+    flutter run
+    ```
+
+## Tech Stack
+
+- **Framework:** Flutter
+- **Programming Language:** Dart
+
+## Features
+
+- Responsive design for various device screens.
+- Smooth transitions between pages.
+- Clean and minimal UI elements.
