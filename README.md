@@ -4,9 +4,9 @@ This Flutter application showcases a well-designed course management system inte
 
 ## Screenshots
 <p float="left">
- <img src="https://github.com/user-attachments/assets/c7f0bf9b-f78c-4bae-b144-c92b2b364984" width="300" />
-  <img src="https://github.com/user-attachments/assets/803a353f-02c4-4e89-8452-76472c609f0f" width="298" />
-  <img src="https://github.com/user-attachments/assets/d69c17c4-cfff-47db-b628-4f78db5aec04" width="300" />
+ <img src="https://github.com/user-attachments/assets/c7f0bf9b-f78c-4bae-b144-c92b2b364984" width="250" />
+  <img src="https://github.com/user-attachments/assets/803a353f-02c4-4e89-8452-76472c609f0f" width="248" />
+  <img src="https://github.com/user-attachments/assets/d69c17c4-cfff-47db-b628-4f78db5aec04" width="250" />
 </p>
 
 ## Pages Overview
