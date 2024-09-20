@@ -22,7 +22,6 @@ This Flutter application showcases a well-designed course management system inte
 - Displays course name, description, and other students enrolled.
 - Shows course progress with video lesson names and durations.
 - Allows users to play video lessons once they are unlocked.
-- "Enroll Now" button is provided for users who are not yet enrolled in the course.
 
 ### 2. Dashboard Page
 **Purpose:** This page serves as the user's main dashboard.
