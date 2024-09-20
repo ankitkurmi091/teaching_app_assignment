@@ -10,7 +10,8 @@ This Flutter application showcases a well-designed course management system inte
 </p>
 
 ## Live Demo
-[APK file](https://github.com/ankitkurmi091/image_compress_app/raw/refs/heads/main/image_compress.apk "Apk File")
+[APK file](https://github.com/ankitkurmi091/teaching_app_assignment/raw/refs/heads/main/teachingUI.apk "Apk File")
+
 
 ## Pages Overview
 
